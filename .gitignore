@@ -1,1 +1,4 @@
-jpg\n*.jpeg\n*.png\n*.gif
+*.jpg
+*.jpeg
+*.png
+*.gif
