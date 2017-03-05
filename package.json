@@ -1,0 +1,16 @@
+{
+  "name": "TimeSuck",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "body-parser": "^1.17.0",
+    "bootstrap": "^3.3.7",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.0",
+    "fs-extra": "^2.0.0",
+    "mongoose": "^4.8.5",
+    "mv": "^2.1.1",
+    "ng-file-upload": "^12.2.13",
+    "path": "^0.12.7"
+  }
+}
